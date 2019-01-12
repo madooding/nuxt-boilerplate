@@ -16,9 +16,13 @@
     "@nuxtjs/bulma": "^1.2.0",
     "axios": "^0.18.0",
     "cross-env": "^5.2.0",
+    "jquery": "^3.3.1",
     "lodash": "^4.17.11",
     "moment": "^2.23.0",
-    "nuxt": "^2.0.0"
+    "numeral": "^2.0.6",
+    "nuxt": "^2.0.0",
+    "querystring": "^0.2.0",
+    "rxjs": "^6.3.3"
   },
   "devDependencies": {
     "babel-eslint": "^8.2.1",
